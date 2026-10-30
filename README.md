@@ -109,10 +109,9 @@ docker-compose -f compose.yaml up -d --build
 
 ## My Contributions
 
-<!-- Fill this in on your own fork. Example: -->
-- Developed the `[service name]` and `[service name]` services in Python/Flask
-- Implemented the RabbitMQ `[event]` workflow between `[service]` and `[service]`
-- `[anything else you owned: Docker setup, database schema, testing]`
+- Developed the `feedback_service` for collecting and managing customer feedback
+- Co-developed the inventory management services with a teammate
+- Set up email notifications using the Mailjet API
 
 ---
 
